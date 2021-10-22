@@ -221,7 +221,7 @@ body {
  }
 /* ------------- Особенности ------------- */
  .section-first {
-     background-color: #E5E5E5;
+     background: #E5E5E5;
      padding-top: 94px;
      padding-bottom: 94px;
  }
@@ -269,6 +269,7 @@ body {
 
 .section-banners {
     padding-bottom: 94px;
+    padding-top: 94px;
 }
 
 .title-second {
@@ -278,7 +279,6 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--secondary-title-color);
-    margin-top: 94px;
     margin-bottom: 50px;
 }
 
@@ -435,7 +435,7 @@ body {
 /* --------- Портфолио кнопки  -----------*/
 
 .header-portfolio{
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 .btn {
     text-decoration: none;
